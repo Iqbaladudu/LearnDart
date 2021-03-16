@@ -11,5 +11,5 @@ void main() {
     print('Saya ingin pergi ke ${key} di ${value}');
   });
   print(capital.keys);
-  print(capital.values);
+  print(capital[1]);
 }
